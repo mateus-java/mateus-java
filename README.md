@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Cientista da Computação | Java Enthusiast | Fortaleza, CE
 
-![Banner do Perfil](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mateus%20C.&fontSize=70&animation=fadeIn)
+![Banner do Perfil](https://capsule-render.vercel.app/render?type=soft&color=005f73&height=200&section=header&text=mateus-java&fontSize=70&animation=fadeIn)
 
 ---
 
