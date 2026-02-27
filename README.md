@@ -2,7 +2,11 @@
 
 ### 👨‍💻 Cientista da Computação | Java Enthusiast | Fortaleza, CE
 
-![Banner do Perfil](https://capsule-render.vercel.app/render?type=soft&color=005f73&height=200&section=header&text=mateus-java&fontSize=70&animation=fadeIn)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=mateus-java;Cientista+da+Computação;Desenvolvedor+Java" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -25,15 +29,6 @@ Sou um entusiasta de tecnologia e **Cientista da Computação** baseado na "Terr
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-java&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-java&layout=compact&langs_count=7&theme=dark" />
-</div>
 
 ---
 
