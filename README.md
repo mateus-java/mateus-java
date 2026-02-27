@@ -1,4 +1,4 @@
-# Olá, eu sou o Mateus C. 👋 🌵
+# Olá, eu sou o Mateus👋
 
 ### 👨‍💻 Cientista da Computação | Java Enthusiast | Fortaleza, CE
 
