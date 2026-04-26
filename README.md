@@ -32,7 +32,6 @@ Sou um entusiasta de tecnologia e **Cientista da Computação** baseado na "Terr
 
 ## 📬 Vamos nos conectar?
 
-[![LinkedIn](https://www.linkedin.com/in/mateus-cipriano-java/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mateuscipriano20031018@gmail.com)
 
 ---
