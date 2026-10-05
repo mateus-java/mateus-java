@@ -14,7 +14,6 @@
 Sou um entusiasta de tecnologia e **Cientista da Computação** baseado na "Terra da Luz", Fortaleza - Ceará. Atualmente focado em arquitetura de sistemas em java.
 
 - ☀️ Atualmente explorando novas fronteiras em Computação.
-- 🗄️ Cursando CS50 na universidade de Havard.
 
 ---
 
